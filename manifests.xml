@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/" name="github"/>
-  <project path="test_repo/test_repo_1" name="my_account/test_repo_1"  remote="github" revision="main"/>
-  <project path="test_repo/test_repo_2" name="my_account/test_repo_2"  remote="github" revision="main"/>
+  <project path="test_repo/test_repo_1" name="Isamisogabe/test_repo_a"  remote="github" revision="main"/>
+  <project path="test_repo/test_repo_2" name="Isamisogabe/test_repo_b"  remote="github" revision="main"/>
 </manifest>
